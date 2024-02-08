@@ -1,0 +1,1 @@
+<!-- CLICK ON THE index.html file TO GIVE YOU AN IDEA HOW THIS WORKS. -->
